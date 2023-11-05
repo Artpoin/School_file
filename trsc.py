@@ -126,7 +126,7 @@ exact to enter "0''
 pleas try agen....
                  ''')
                      break
-                 A = a ** 2
+                 A = a * a
                  print (f"perimeter of a square = {A} ")
                  break
             elif o == 2:
